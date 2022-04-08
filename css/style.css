@@ -350,7 +350,7 @@ h2.title {
     padding: 56px 0 69px 0;
 }
 
-.footer_text {
+.footer .footer_text {
     text-align: center;
     font-family: 'Roboto';
     font-style: normal;
@@ -361,6 +361,6 @@ h2.title {
 
 }
 
-.footer_text span {
+.footer .footer_text span {
     text-decoration-line: underline;
 }
